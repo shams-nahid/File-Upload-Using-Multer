@@ -3,7 +3,7 @@
 # File Upload Using Multer Middleware 
 Source code of the blog post.
 
-#### N.B. No Client side is provided; Try Unit Testing via postMan; To check the API;
+#### N.B. No Client side is provided; Use postMan to check the API;
 
 ## Setup
 - Create a databases `myproject`
